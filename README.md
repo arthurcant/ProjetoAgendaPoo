@@ -1,2 +1,2 @@
 # ProjetoAgendaPoo
-Projeto incompleto.
+Projeto em andamento.
